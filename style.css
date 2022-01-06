@@ -1,0 +1,115 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    padding: 10px;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 18px;
+    padding: 15px 0px;
+}
+.devider h1{
+    font-family: 'Times New Roman', Times, serif;
+    border-left: 5px solid rgb(4, 58, 59);
+    border-radius: 3px;
+    padding-left: 15px;
+}
+.btn{
+    background-color: rgb(10, 10, 151);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 7px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.mission-color{
+    color:rgb(44, 56, 235);
+}
+.flxer{
+    display: flex;
+}
+.devider{
+    width:50%;
+    padding: 30px 80px;  
+}
+.devider img{
+    width: 80%;
+}
+
+.my-mission{
+    padding: 10px 80px;
+    
+
+}
+.my-mission h1{
+    text-align: center;
+
+}
+.devider-my-mission{
+    width: 30%;
+    margin: 0px 20px;
+    border-radius: 20px;
+}
+.mission{
+    background-color: rgb(193, 218, 142);
+    padding: 30px 30px;
+    margin: 20px 20px;
+}
+.mission img{
+    height: 200px;
+    width: 200px;
+}
+.vission{
+    background-color: rgb(236, 156, 142);
+    padding: 30px 30px;
+    margin: 20px 20px;
+}
+.vission img{
+    height: 200px;
+    width: 200px;
+}
+.goals{
+    background-color: rgb(148, 154, 240);
+    padding: 30px 30px;
+    margin: 20px 20px;
+}
+.goals img{
+    height: 200px;
+    width: 200px;
+}
+.career{
+    width: 45%;
+    padding-top: 50px;
+}
+.career img{
+    margin-left: 85px;
+    width: 500px;
+    height: 500px;
+}
+.global-commu{
+    margin-left: 80px;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(12 12 12);
+    padding: 3px;
+    color: white;
+}
+footer h2{
+    font-family: cursive;
+    font-size: 40px;
+}
+.bg-color{
+    background-color: #6bd9b0b8;
+    padding: 25px;
+    border-radius: 50px;
+    margin-bottom: 50px;
+    margin-top: 40px;
+}
