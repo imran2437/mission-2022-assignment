@@ -13,13 +13,13 @@ p{
     font-size: 18px;
     padding: 15px 0px;
 }
-.devider h1{
+.separate h1{
     font-family: 'Times New Roman', Times, serif;
     border-left: 5px solid rgb(4, 58, 59);
     border-radius: 3px;
     padding-left: 15px;
 }
-.btn{
+.button{
     background-color: rgb(10, 10, 151);
     color: white;
     padding: 10px 40px;
@@ -31,14 +31,14 @@ p{
 .mission-color{
     color:rgb(44, 56, 235);
 }
-.flxer{
+.flx{
     display: flex;
 }
-.devider{
+.separate{
     width:50%;
     padding: 30px 80px;  
 }
-.devider img{
+.separate img{
     width: 80%;
 }
 
@@ -51,7 +51,7 @@ p{
     text-align: center;
 
 }
-.devider-my-mission{
+.separate-my-mission{
     width: 30%;
     margin: 0px 20px;
     border-radius: 20px;
